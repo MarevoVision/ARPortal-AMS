@@ -1,7 +1,7 @@
 # ARPortal-AMS
 ![AMS icon](https://github.com/MarevoVision/ARPortal-AMS/blob/master/icon_github.png?raw=true)
 
-Portal to Amsterdam.
+Portal to Amsterdam
 
 ## Used and applied in the project:
 
